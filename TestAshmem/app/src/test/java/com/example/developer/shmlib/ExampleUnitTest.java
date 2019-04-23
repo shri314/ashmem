@@ -1,4 +1,4 @@
-package com.example.developer.testashmem;
+package com.example.developer.shmlib;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.developer.testashmem;
+package com.example.developer.shmlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
